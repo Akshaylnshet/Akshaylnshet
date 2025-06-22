@@ -13,7 +13,7 @@ I'm a passionate full-stack developer with expertise in the **MERN stack** (Mong
 
 ### 🌟 Achievements & Certifications:
 - ✅ **NPTEL Certified** in Programming in Java & The Joy of Computing using Python
-- 🎯 **Google Cloud Arcade Facilitator Program** – Aiming for the Champion milestone (July 2024)
+- 🎯 **Google Cloud Arcade Facilitator Program** –the Champion milestone (July 2024)
 - 💡 **Open Source Contributor** & Tech Blogger
 
 
