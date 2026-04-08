@@ -106,7 +106,7 @@ class AkshayLNShet:
 - 📊 Structured data output
 - 🚀 Scalable API architecture
 
-[![Status](https://img.shields.io/badge/🛠️_Status-In_Development-FF6D00?style=flat-square)]()
+[![repo](https://img.shields.io/badge/🛠️_Status-In_Development-FF6D00?style=flat-square)](https://github.com/Akshaylnshet/docmind-rag-chatbot)
 
 </td>
 </tr>
@@ -134,7 +134,7 @@ class AkshayLNShet:
 - 💻 Optimized for Apple M3 (Ollama)
 - 🎯 Production-grade response quality
 
-[![Status](https://img.shields.io/badge/🛠️_Status-In_Development-FF6D00?style=flat-square)]()
+[![repo](https://img.shields.io/badge/🛠️_Status-In_Development-FF6D00?style=flat-square)](https://github.com/Akshaylnshet/docmind-rag-chatbot)
 
 </td>
 </tr>
@@ -162,7 +162,7 @@ class AkshayLNShet:
 - 📊 Inventory analytics dashboard
 - 🔄 Automated replenishment triggers
 
-[![Status](https://img.shields.io/badge/🧪_Status-Completed-00C853?style=flat-square)]()
+[![repo](https://img.shields.io/badge/🧪_Status-Completed-00C853?style=flat-square)](https://github.com/Akshaylnshet/SmartShelf)
 
 </td>
 </tr>
